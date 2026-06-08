@@ -91,6 +91,20 @@
         "$type": "dimension",
         "$value": "0px"
       }
+    },
+    "red": {
+      "500": {
+        "$type": "color",
+        "$value": "#FF8080"
+      },
+      "700": {
+        "$type": "color",
+        "$value": "#FF4D4D"
+      },
+      "900": {
+        "$type": "color",
+        "$value": "#FF1A1A"
+      }
     }
   },
   "$themes": [],
